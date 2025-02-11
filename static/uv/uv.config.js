@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/',
-    bare: 'https://bare.starttiw.org/',
+    bare: 'https://tomp.app',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
